@@ -26,7 +26,7 @@ Linkedin: https://www.linkedin.com/in/ndiscala
 </div>
 
 <div align="center">
-HTML | CSS3 | BOOTSTRAP | SASS | NODE JS | JAVASCRIPT | REACT
+HTML | CSS3 | BOOTSTRAP | SASS | NODE JS | JS | REACT
 </div>
 
 

@@ -1,4 +1,4 @@
-Nicolas Di Scala /README.md
+
 
 <h1>Hola! soy Nicolas Di Scala, estudiante de Desarrollo web nacido en Argentina, Bs As. 🚀.</h1>
 
@@ -18,6 +18,11 @@ Contacto : Ndiscala56@gmail.com
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+ 
 </div>
+
+
 
 

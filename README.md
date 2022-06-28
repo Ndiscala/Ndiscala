@@ -8,7 +8,8 @@ FrontEnd Development ⚡ </br>
 Lenguajes : JavaScript. </br>
 Aprendiendo: React. </br>
 Hobbies : Futsal ⚽ y Animales 🐶. </br>
-Contacto : Ndiscala56@gmail.com 
+Contacto : Ndiscala56@gmail.com  </br>
+Linkedin: https://www.linkedin.com/in/ndiscala
 
 ##
 
